@@ -54,7 +54,7 @@ All five results are printed using pprint
 The results are converted to a Pandas DataFrame and displayed
 ```
 
-## Question 4: How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas. (
+## Question 4: How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.  
 
 ```An aggregation pipeline is built to include a match query, group, and sort  
 The match query matches documents with a hygiene score of 0  
@@ -66,7 +66,7 @@ The first ten results are printed using pprint
 The results are converted to a Pandas DataFrame and displays the first 10 rows
 ```
 
-## Deployment and Submission (6 points)
+## Deployment and Submission  
 ```To receive all points, you must:
 Submit a link to a GitHub repository that’s cloned to your local machine and contains your files 
 Use the command line to add your files to the repository 
